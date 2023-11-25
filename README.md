@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saqlain Javed</h1>
 <h3 align="center">"Passionate MERN Stack Developer: Crafting Seamless Experiences"</h3>
-<img src="https://www.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_15329611.htm#page=2&query=programming%20gif&position=3&from_view=search&track=ais&uuid=1fd04b0f-ba6b-41ff-9364-830479296d5a" alt="saqlain-hub" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain-hub&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain-hub" /> </p>
 
 - 🔭 I’m currently working on [Social Media Project](https://github.com/saqlain-hub/social-media)
 
